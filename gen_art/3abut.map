@@ -1,0 +1,5 @@
+<MAP NAME="2abut">
+<AREA SHAPE=RECT COORDS="0,0,39,37" HREF="../?/back.htm">
+<AREA SHAPE=RECT COORDS="39,0,79,37" HREF="#TOP">
+<AREA SHAPE=RECT COORDS="79,0,119,37" HREF="../?/forward.htm">
+</MAP>
