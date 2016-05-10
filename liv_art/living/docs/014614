@@ -1,0 +1,65 @@
+<<docid=014614>>
+<<entry_date=960425>>
+<<entry_time=180604>>
+<<transmit_date=960507>>
+<<transmit_time=022440>>
+<<typeset_date=960506>>
+<<typeset_time=171400>>
+<<expire_date=960507>>
+<<doctype=P>>
+<<story_name=glitch07>>
+<<keyword=TUESDAY07>>
+<<topic=2000>>
+<<author=FEK0816>>
+<<body_agate=B>>
+<<pubdate=960507>>
+<<category=W>>
+<<section=LT>>
+<<page=TUE>>
+<<edition=1C>>
+<<head_ptsize=32>>
+<<headline=>>
+<<mapwords=living>>
+<<description=Living>>
+<<release_date=>>
+<<dateline=>>
+<<byline=>>
+<<lead=>>
+<<docstart>>
+<m1><m1><styl>cxon<ql>
+<m2> <m2><ql>
+<m1><styl>hed,3,32,1<ql>
+<<main_headline>>
+<m0>Computers can't cope with `Year 2000'<ql>
+<m1><ue5><m4>   LINE 1 IS .17 PICA(S) SHORT<m2><ql>
+<m4>   TOTAL HEAD DEPTH IS .437 INCHES<m2><ql>
+<ql>
+<m1><styl>cxoff<ql>
+<m1><styl>ruleron<ql>
+<styl>by <m2>By <m0>SHANKAR VEDANTAM<ql>
+<m1><styl>crline <m0>Herald Washington Bureau<ql>
+<m1><ep>
+<m0>   And you thought changing your alarm clock to Daylight Savings Time was a pain.<ep>
+   When Jan. 1, 2000, arrives, an arcane glitch in most of the world's computers will reset their internal clocks to 1900. Some will reset to 1980, or 1983.<ep>
+   The resulting mess can halt Social Security payments, snarl long-distance phone connections, mess up desktop spreadsheet programs, make insurance calculations go bust, even cause troop deployments to go awry and satellites to go cross-eyed.<ep>
+   Records may show that your marriage never took place, that your driver's license expired before you were born.<ql>
+<m0>Really, I do exist!<ep>
+<m0>   And you may no longer be eligible for Medicare. Consider what would happen if you were 75 and sick and went to the hospital with a card showing your 1925 birth date.<ep>
+   ``If the computer said the year was 1900 instead of 2000,'' one congressional aide hypothesizes, ``instead of being 75, you would be <m0>minus <m0>25, and they would say you can't get benefits.''<ep>
+   The cost of fixing the problem worldwide might run to $600 billion, according to one estimate. The United States may be in for 10 percent to 40 percent of that.<ep>
+   To save memory, most computers record the year by storing just its last two digits. For example, we are now in ``96.'' When 2000 rolls around, ``99'' will become ``00.'' To the computers, the advent of the new millennium will set us back a century.<ep>
+   Consultants say some computers are designed to reset to other years. No one expected that many of these computers would be around long enough to be affected. Machines that run on DOS were designed to reset to Jan. 4, 1980. UNIX systems will reset to 1983.<ep>
+   Social Security is likely to be struck hard. It provides benefits to some 50 million people and pumps some $350 billion into the economy.<ep>
+   ``If we had errors in our software, that would cause us not to issue those checks,'' says Judith Draper, director of the software technology and engineering center at the Social Security Administration. ``There would be economic upheaval. Everything we do is done on computers.''<ql>
+<m0>Money aspect<ep>
+<m0>   Cleaning up your own computer may only be a small part of the problem. Macintosh owners, who gleefully point out that their machines make the date switch correctly, can be affected if they use software that is flawed or use data from other computers that have used the wrong date.<ep>
+   The techies call it the ``Year 2000'' problem. For a long time now, big corporations and the government decided that if they just ignored it, the ``problem'' would go away. But Jan. 1, 2000, seems intent on turning up.<ep>
+   There are precedents for what might happen: In Italy, for instance, on Jan. 1, 1990, a bank's computers reset to some previous date. After that, its ATMs continued dispensing cash (--) but posted the transactions with invalid dates. People were withdrawing funds (--) but the bank didn't know it.<ep>
+   How do you solve the problem? <m1><ep>
+<m0>   One of the plans is to tell all the computers that any date with a date less than ``50'' is in the 21st century, since most of this century's dates that are stored in computers are between ``50'' and ``99.''<ep>
+   But that method isn't error-free. And it only postpones dealing with the problem until 2050.<ep>
+   The only real solution is to convert every date in every computer to a full four-digit year, a massive and costly prospect.<ql>
+<m4>--16.051 inches ( 96p8 )--from start of measuring to here--<m2><ql>
+<ep>
+
+<<docend>>

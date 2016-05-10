@@ -1,0 +1,180 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<TITLE>HeraldLink - CyberGuide </TITLE>
+<META NAME="docid" CONTENT="035686">
+<META NAME="entry_date" CONTENT="960506">
+<META NAME="entry_time" CONTENT="174329">
+<META NAME="transmit_date" CONTENT="960508">
+<META NAME="transmit_time" CONTENT="021736">
+<META NAME="typeset_date" CONTENT="000000">
+<META NAME="typeset_time" CONTENT="000000">
+<META NAME="expire_date" CONTENT="960508">
+<META NAME="doctype" CONTENT="P">
+<META NAME="story_name" CONTENT="cyberq&a08">
+<META NAME="keyword" CONTENT="WEDNESDAY08">
+<META NAME="topic" CONTENT="">
+<META NAME="author" CONTENT="D.KEATING">
+<META NAME="body_agate" CONTENT="">
+<META NAME="pubdate" CONTENT="960508">
+<META NAME="category" CONTENT="">
+<META NAME="section" CONTENT="LT">
+<META NAME="page" CONTENT="WED">
+<META NAME="edition" CONTENT="D">
+<META NAME="head_ptsize" CONTENT="30">
+<META NAME="headline" CONTENT="Reader straightened out `host' question">
+<META NAME="mapwords" CONTENT="cyber">
+<META NAME="description" CONTENT="CyberGuide">
+<META NAME="release_date" CONTENT="">
+<META NAME="dateline" CONTENT="">
+<META NAME="byline" CONTENT="">
+<META NAME="lead" CONTENT="Last week, I answered a question about dialing from one home computer to another by using the simple Windows Terminal communications program on each machine. I said it couldn't be done because Terminal doesn't have the ``host'' mode necessary for handling incoming calls, that you had to have more sophisticated communications software that includes a ``host'' mode. ">
+</HEAD>
+<!-- start headings -->
+<BODY BACKGROUND="/gen_art/bkgrd.gif" BGCOLOR="#FFFFFF" TEXT="#000000" LINK="#FF0000" VLINK="#808080" ALINK="#00FF00">
+
+<!-- ######## Table Begins ######## -->
+<TABLE BORDER=0 WIDTH=600 CELLPADDING=1>
+
+	<!-- ###### Row One Begins ###### -->
+	<TR>
+		<!-- #### Index Begins #### -->
+		<TD width=85 ROWSPAN=5 VALIGN="TOP">
+
+			<!-- ## This is the HLINK bug ## -->
+				<CENTER>
+				<IMG SRC="/gen_art/bug_mo.gif" WIDTH=72 HEIGHT=54 BORDER=0 ALT="[HLINK]"><BR><BR></CENTER>
+			<!-- ## End HLINK bug ## -->
+
+			<!-- ## Skimmer Begins ## -->
+				<IMG SRC="/gen_art/skimmer.gif" WIDTH=81 HEIGHT=17 ALT="[NAVIGATE]"><BR><CENTER>
+				<IMG SRC="/gen_art/2but.gif" USEMAP="#2but" BORDER=0 WIDTH=79 HEIGHT=37 ALT="[IMAGEMAP]">
+				<BR>
+				<BR>
+				</CENTER>
+			<!-- ## Skimmer Ends ## -->
+
+		</TD>
+		<!-- #### Index Ends #### -->
+
+		<!-- #### Index Buffer  Begins #### -->
+			<TD WIDTH=5 ROWSPAN=3 VALIGN="TOP"><IMG SRC="/gen_art/5.gif" WIDTH=5 HEIGHT=40></TD>
+		<!-- #### Index Buffer Ends #### -->
+
+		<!-- #### Head Banner Begins #### -->
+			<TD width=480 VALIGN="TOP">
+			<CENTER><A NAME="TOP"><IMG SRC="/gen_art/storybar.gif" WIDTH=400 HEIGHT=15 ALT="[FULL STORY]"></A><BR>
+			<FONT SIZE=-1><EM>
+
+			<!-- Date -->
+			Published Wednesday, <nobr>May 8, 1996,</nobr> in the Miami Herald.
+			<!-- End Date -->
+
+			</EM></FONT></CENTER><BR></TD>
+		<!-- #### Head Banner Ends #### -->
+
+	</TR>
+	<!-- ###### Row One Ends ###### -->
+
+	<!-- ################################################################### -->
+	<!-- ###### Row Two Begins -  THE NEXT 3 ROWS ARE CONTENT AREA ###### -->
+	<TR>
+		<TD VALIGN="TOP">
+
+<!-- end headings -->
+<!-- docstart -->
+<!-- start headlines -->
+<H2>Reader straightened out `host' question</H2>
+<!-- end headlines -->
+
+   Last week, I answered a question about dialing from one home computer to another by using the simple Windows Terminal communications program on each machine. I said it couldn't be done because Terminal doesn't have the ``host'' mode necessary for handling incoming calls, that you had to have more sophisticated communications software that includes a ``host'' mode.<P>
+
+   Well, I was wrong.<P>
+
+   Eighteen-year-old Alan Goldstein of Tamarac gently pointed out to me that it can be done.<P>
+
+   Here's how: Have Terminal open on both computers. On Computer No. 1 (the one receiving the call), type ``ATA'' on the screen. Next, have Computer No. 2 dial Computer No. 1. Once the phone rings at Computer No. 1 (you have to have a telephone on the same line as the computer, which isn't unusual), hit ``enter'' or ``return.''<P>
+
+   The ``ATA'' command tells Computer No. 1 to answer the call. It should pick up the phone. Then, the two computers are connected. People at the two keyboards can communicate by typing on the screen. Characters typed will show up on the other computer, as well.<P>
+
+   To transfer a file between computers, start on the computer that will send the file. Choose ``Transfer/Send,'' and then give the file name to send. On the receiving end, choose ``Transfer/Receive,'' and give a name that the file will have when it arrives.<P>
+
+   This isn't as smooth as using a ``host'' mode on fancier software, but it definitely will do the trick.<P>
+
+   Goldstein says he isn't an electronic guru.<P>
+
+   ``I have friends who are computer wizards,'' he says. ``I'm just a computer operator. I know my limits.''<P>
+
+   So does CyberGuide.<BR>
+<P>
+
+<BR>
+Q.<BR>
+I'm running Windows95 and showing only 504K of conventional memory. I need more. I could run memmaker on my old Windows 3.1, but not here. Any ideas on how to increase my conventional memory?<P>
+
+   -- J.P., South Florida<BR>
+<P>
+
+<BR>
+A.<BR>
+Memmaker is still your friend. Windows95 doesn't need it for running Windows programs, but it is still handy for DOS programs, especially games. You can keep your memmaker command in your autoexec.bat file. Windows95 will ignore it during bootup, but will start it when it loads a virtual DOS machine to run a DOS program.<P>
+
+   Also, you can also load system programs in high memory to free up the 640K conventional memory. On Windows95, you need to edit the ``msdos.sys'' file in the ``c:\'' directory. Before you can edit it, you must remove the read-only protection.<P>
+
+   At the MSDOS prompt, type ``attrib -r-s-h msdos.sys'' and hit enter.<P>
+
+   Then, edit the file using Notepad. Add the line: ``LoadTop=1'' and save.<P>
+
+   Put the read-only protection back on by typing ``attrib +r+s+h msdos.sys'' and hit enter.<P>
+
+   Restart the computer. You should have more conventional memory for your DOS program.<BR>
+  <P>
+
+  <LI> Dan Keating can be reached by e-mail at <a href="mailto:dtkeats@ibm.net">dtkeats@ibm.net</a>, by phone at (954) 985-4571 or by writing him at The Herald, 3325 Hollywood Blvd. Suite 102, Hollywood, Fla. 33021.
+<!-- docend -->
+		</TD>
+	</TR>
+	<!-- ###### Row Two Ends -- THIS IS THE END OF CONTENT AREA ###### -->
+	<!-- ################################################################### -->
+
+	<!-- ###### Row Three Begins -- THIS IS THE CREDIT/COPYRIGHT AREA ###### -->
+	<TR>
+		<!-- #### Begin Credits/Copyright Area #### -->
+		<TD>
+			<CENTER>
+
+			<MAP NAME="2but">
+				<AREA SHAPE=RECT COORDS=0,0,39,37 HREF="../index.htm">
+				<AREA SHAPE=RECT COORDS=39,0,79,37 HREF="http://www.herald.com">
+			</MAP>
+
+			<MAP NAME="3but">
+				<AREA SHAPE=RECT COORDS=0,0,39,37 HREF="../index.htm">
+				<AREA SHAPE=RECT COORDS=39,0,79,37 HREF="#TOP">
+				<AREA SHAPE=RECT COORDS=79,0,118,37 HREF="http://www.herald.com">
+			</MAP>
+
+			<CENTER><BR>
+			<BR>
+			<IMG SRC="/gen_art/3but.gif" USEMAP="#3but" BORDER=0 WIDTH=118 HEIGHT=37 ALT="[IMAGEMAP]">
+			<BR>
+			<BR>
+			</CENTER><BR>
+
+			<FONT SIZE=-1><EM>&copy; 1996 The Miami Herald. The information you receive on-line from <BR>
+			The Miami Herald is protected by the copyright laws of the United States. <BR>
+			The copyright laws prohibit any copying, redistributing, retransmitting, <BR>
+			or repurposing of any copyright-protected material.<BR>
+			Send questions and comments to <A HREF="mailto:feedback@herald.com">feedback@herald.com</A></EM></FONT><BR>
+			<IMG SRC="/gen_art/strybnk.gif">
+			</CENTER>
+
+		</TD>
+		<!-- #### End Credits/Copyright Area #### -->
+		</TR>
+	<!-- ###### Row Three Ends ###### -->
+	</TABLE>
+<!-- ######## Table Ends ######## -->
+
+</BODY>
+</HTML>

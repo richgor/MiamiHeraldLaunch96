@@ -1,0 +1,64 @@
+<<docid=030368>>
+<<entry_date=960422>>
+<<entry_time=144442>>
+<<transmit_date=960423>>
+<<transmit_time=151015>>
+<<typeset_date=000000>>
+<<typeset_time=000000>>
+<<expire_date=960423>>
+<<doctype=P>>
+<<story_name=cyberbox24>>
+<<keyword=>>
+<<topic=>>
+<<author=D.KEATING>>
+<<body_agate= >>
+<<category=>>
+<<pubdate=960424>>
+<<section=LT>>
+<<page=WED>>
+<<edition=2D>>
+<<head_ptsize=0>>
+<<headline=>>
+<<mapwords=cyber>>
+<<description=Cyber Guide>>
+<<release_date=>>
+<<dateline=>>
+<<byline=>>
+<<lead=>>
+<<docstart>>
+<<main_headline>>
+<m1><styl>revhang,2<ql>
+SEEKING WEB-PAGE PERFECTION<ql>
+<m2><ql>
+ SEEKING WEB-PAGE PERFECTION <qc>
+<m1><ql>
+<styl>ruleron,n<ql>
+<styl>txt,30p7,9.5,hvm<ql>
+<ep>
+<m0>   These are some free online spots that will check World Wide Web pages for defects, as well as some guides to help you know what you're doing:<ep>
+   (box) <m0>Dr. HTML<ep>
+<m0>   <m0>http://imagiware.com/RxHTML.cgi<ep>
+<m0>   By Thomas Tongue of Imagiware, this easy-to-use spot includes the most thorough and useful set of checks, including spelling and picture checks. <m1>    <ep>
+<m0>  <m0> (box) WWWeblint<ep>
+<m0> <m0>  http://www.unipress.com/weblint/<ep>
+<m0>   By Neil Bowers at Unipress Worldwide, WWWebLint has a smaller range of choices than Dr. HTML, but it gives you the line number of each error, which helps in tracking them down. The people who run it ask for donations if you use it a lot.<ep>
+ <m0>  (box) A Kinder, Gentler Validator<ep>
+<m0> <m0>  http://ugweb.cs.ualberta.ca/<m1>~ <m2>  1/8<m0>gerald/validate/<ep>
+<m0>   By Gerald Oskoboiny, this has pointers to many other resources that can help an eager Web-page creator. Error messages come with more explanation, which will help a beginner fix problems.<ep>
+   <m0>(box) WebTechs validator<ep>
+   http://www.webtechs.com/html-val-svc/<ep>
+<m0>   One of the better-known checkers online, WebTech's system is powerful, but error messages are more suitable for experts than beginners.<ep>
+   <m0>(box) Specifications for HTML 2.0 <ep>
+   http://www.w3.org/hypertext/WWW/MarkUp/html-spec/<ep>
+   (box) HTML 3.0 proposals and specifications<ep>
+   http://www.w3.org/hypertext/WWW/MarkUp/html3/Contents.html<ep>
+   (box) A Beginner's Guide to HTML<ep>
+   http://www.ncsa.uiuc.edu/General/Internet/WWW/HTMLPrimer.html<ep>
+<m0>   (box)<m0> HTML Guide in Spanish<ep>
+   http://www.data.net.mx/clientes/fotored/html.html<ep>
+   (box) Composing Good HTML<ep>
+   http://www.cs.cmu.edu/<m1>~ <m2>  1/8<m0>tilt/cgh/<ep>
+<m4>--4.359 inches ( 26p3 )--from start of measuring to here--<m2><ql>
+<ep>
+
+<<docend>>

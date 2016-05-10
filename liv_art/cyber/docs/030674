@@ -1,0 +1,76 @@
+<<docid=030674>>
+<<entry_date=960428>>
+<<entry_time=161604>>
+<<transmit_date=960501>>
+<<transmit_time=021817>>
+<<typeset_date=000000>>
+<<typeset_time=000000>>
+<<expire_date=960501>>
+<<doctype=P>>
+<<story_name=cyberq&a01>>
+<<keyword=WEDNESDAY>>
+<<topic=>>
+<<author=G.WOLIN>>
+<<body_agate= >>
+<<pubdate=960501>>
+<<category=>>
+<<section=LT>>
+<<page=WED>>
+<<edition=2D>>
+<<head_ptsize=29>>
+<<headline=>>
+<<mapwords=cyber>>
+<<description=CyberGuide>>
+<<release_date=>>
+<<dateline=>>
+<<byline=>>
+<<lead=>>
+<<docstart>>
+<m1><styl>hed,22p,29,2,jam<ql>
+<<main_headline>>
+<m0>Modem's `host' option<ql>
+<m4>   LINE 1 IS .27 PICA(S) SHORT<m2><ql>
+<m0>needed to share files<ql>
+<m1><ue5><m4>   LINE 2 IS 2.52 PICA(S) SHORT<m2><ql>
+<m4>   TOTAL HEAD DEPTH IS .869 INCHES<m2><ql>
+<ql>
+<m1><styl>ruleron,n<ql>
+<styl>SIG,1<ql>
+<m2> <ql>
+<ql>
+<m0>ASK CYBERGUIDE<ql>
+<m1><ue4><m2><ql>
+<m0>DAN KEATING<ql>
+<m1><ue5><m2><ql>
+<m1><styl>txt,1<ql>
+<styl>capline,2,h<ql>
+<m2><ql>
+<ql>
+<m1>Q. <m2><ql>
+<m1><ql>
+ <m0>Can I use the Windows Terminal program on one computer to dial in to another computer using Windows Terminal, to share a file or send a message? <m1> <ep>
+<m0>   E.H., Miami<ql>
+<m1>   <m2><ql>
+<ql>
+<m1>A. <m2><ql>
+<m0>No, you can't do that with Terminal, which is a very basic <m1> <m0>communications tool that comes free with Microsoft Windows. You need a slightly more sophisticated communications package to receive a call.<ep>
+    You need <m1> <m0>a ``host'' mode, which is designed for incoming calls. Almost every modem comes with communications software. So you should have received something with your modem, or pre-installed on a new computer with a modem. <m1> <m0>Most software includes a host option. Once you turn that on, your computer will take an incoming call and allow someone to connect to your computer.<ep>
+   You have to be careful with host mode, though. Once someone dials into your computer, he can copy files, delete files, rename files and more. You have to decide whether people dialing in need a password, and what ``rights'' they'll have. <m1>  <ep>
+<m0>   <m2><ql>
+<ql>
+<m1>Q. <m2><ql>
+<m0>Why can't someone buy software to get on the Internet and stay there free with a modem? What gives Internet providers the privilege to charge us for accessing it? Do you know if there is an alternative?<ep>
+<m0>   A.L., Aventura<qr>
+<m2><ql>
+<ql>
+<m1>A. <m2><ql>
+<m0>They can charge you because they own it. Remember, the Internet is a giant network of computers. Every one of those computers is owned by somebody who spends money to buy it, set it up and maintain it. When you're on the Internet, you are looking at the files on other people's computers.<ep>
+   You don't usually have to pay to access a particular site, although more and more specific sites require charges.<ep>
+   The greatest cost comes from the connection. An Internet Service Provider has a computer permanently connected to the Internet by special wiring or a high-speed telephone line. You dial into that ISP's computer. Your telephone connection to that computer gives you a connection to the network as a whole.<ep>
+   But ISPs have to pay to maintain their permanent connection to the network, their computers, their modems and their phone lines.<ep>
+   <ep>
+   Finally, there is a free choice. You can use the South Florida Free-Net, which is available in Dade, Broward and Palm Beach counties. Run by the libraries, it charges no fees. The service doesn't offer all the bells and whistles of commercial services, but it has excellent e-mail, lots of local information and tons of Internet sites.<ep>
+<m4>--12.338 inches ( 74p3 )--from start of measuring to here--<m2><ql>
+<ep>
+
+<<docend>>

@@ -1,0 +1,106 @@
+<<docid=037565>>
+<<entry_date=960422>>
+<<entry_time=143101>>
+<<transmit_date=960423>>
+<<transmit_time=152518>>
+<<typeset_date=000000>>
+<<typeset_time=000000>>
+<<expire_date=960423>>
+<<doctype=P>>
+<<story_name=cyberguide24>>
+<<keyword=TUESDAY>>
+<<topic=>>
+<<author=D.KEATING>>
+<<body_agate= >>
+<<category=>>
+<<pubdate=960424>>
+<<section=LT>>
+<<page=WED>>
+<<edition=1D>>
+<<head_ptsize=32>>
+<<headline=>>
+<<mapwords=cyber>>
+<<description=Cyber Guide>>
+<<release_date=>>
+<<dateline=>>
+<<byline=>>
+<<lead=>>
+<<docstart>>
+<m1><styl>hed,6,42,1<ql>
+<m0>Web has electronic `editors' t<m2><ql>
+<ql>
+rs' t<m0>o proofread your home page<ql>
+<m1><ue5><m2><ql>
+<m4>   LINE 1 IS 3.23 PICA(S) SHORT<m2><ql>
+<m4>   TOTAL HEAD DEPTH IS 1.069 INCHES<m2><ql>
+<ql>
+<m1><styl>txt,3,18,bobi<ql>
+<m0>(--)(--)HED ABOVE IS FOR JUMP PAGE!(--)(--)<ql>
+<m1><ql>
+<styl>hed,12p2,32,3,jal<ql>
+<<main_headline>>
+<m0>No excuse<ql>
+<m4>   LINE 1 IS 1.22 PICA(S) SHORT<m2><ql>
+<m0>for Web<ql>
+<m4>   LINE 2 IS 3.08 PICA(S) SHORT<m2><ql>
+<m0>page goofs<ql>
+<m1><ue5><m4>   LINE 3 IS 1.09 PICA(S) SHORT<m2><ql>
+<m4>   TOTAL HEAD DEPTH IS 1.433 INCHES<m2><ql>
+<ql>
+<m1><styl>ruleron<ql>
+<styl>txt,12p2<ql>
+<styl>key,1<ql>
+<m4> TEXT SET IN ALL-CAPS <m2><ql>
+ <ql>
+<m1>the cyber space<ue4>2d<ql>
+<m2><ql>
+<m1><ue5><m2><ql>
+<m1><styl>jump,6.0i,14p9<ql>
+1D<ue5>2D<ue5>CYBERGUIDE<ql>
+<styl>capline,3<ql>
+<ep>
+<m0>  <m2><ql>
+<ql>
+<m1>T<m2><ql>
+<m0>he world's got wars, famine, floods. It's got death and taxes.<ep>
+   There's no reason to pile on bad World Wide Web pages, as well.<ep>
+   If I could stop war and the other problems, I would. But I'm going to shoot a little lower by taking a stand against bad Web spots. <ep>
+   Anyone and everyone can write Web pages. It's no harder than making a resume look good with word processing software. Internet Service Providers can help anyone set up a page, as will the commercial online services America Online, CompuServe and Prodigy.<ep>
+   Lots of people are taking advantage of this, jumping onto the Internet with their own pages. Some of them are commercial ventures, others are personal works for fun. You can put up a page about your company or about your kids.<ep>
+   My work requires me to look at lots of Web pages, plus the ones I visit for fun. I'm surprised at how many people go to the trouble of presenting themselves online, and then do it badly.<ep>
+   There are two ways a page can go bad: It can have bad content (--) insipid, pointless or lame; or it can be broken (--) flawed in a way that makes it impossible to view.<ep>
+   I'm going to leave the lame content alone. That's a matter of personal taste.<ep>
+   <m2><ql>
+<ql>
+PLEASE SEE  CYBERGUIDE,  2D<qr>
+<m4>--6.365 inches ( 38p4 )--from start of measuring to here--<m2><ql>
+  <ql>
+<ql>
+CYBERGUIDE,  FROM  1D<ql>
+<m0>The good news is that there's a solution for broken pages. I get press releases and telephone requests every day from people who want a newspaper columnist to look at their pages. Sometimes when I try to, I just get error messages that the page can't be seen.<ep>
+   What's wrong?<ep>
+   Bad ``tags.''<ep>
+   A Web page is created as simple text that has ``tags'' to designate headlines, images and hyper-text links. Tags are not complicated. Tags (--) like these: <m0> title<m0> Dan's Great Page<m0> /title<m0>  (--) tell Web browsing software how to handle each part of the page.<ep>
+   It's easy enough to do. But if you misspell a tag, or have a typo, or commit a host of other mistakes, the page may become unusable. Then the Web browsing software that tries to read the page may find a confusing jumble. That's when error messages appear.<ep>
+   It's not just newcomers who make these mistakes. I've seen them on the pages of major businesses.<ep>
+<m1>   Software reacts differently<ep>
+<m0>   One point of frequent confusion is that a page might look fine to one person (especially the creator) and give error messages when someone else checks it. That's because Web browsing software reads and interprets the page with tags, and then displays the page on the computer screen. Browser software is made by many different companies, from America <m1> <m0>Online to Netscape to Microsoft to IBM. Each browser handles errors in a different way. So an error that one browser might ignore could crash another one.<ep>
+   Just because you've looked at your page with one browser doesn't mean it will look good with the others. That's another reason you must check every page as carefully as you can.<ep>
+   You can buy software to check your tags. There are also spots on the Internet that will check your page for free. All you do is go to the spot and type in the address of your page. It will read your page, examine all of the tags and tell you whether there are any mistakes. <ep>
+   Some of them even include spelling checks and advice on how to correct the errors.<ep>
+<m1>   Ask the Doctor<ep>
+<m0>   The one I liked the most was Dr. HTML. (HTML stands for hyper-text markup language, the name for all the tags.) It lets you decide whether you want to check just your tags or your spelling or other particular parts of your page. (See the address for Dr. HTML and other sites in the box accompanying this column.)<ep>
+   It will also check the size of all pictures on the page. Anyone who has visited the World Wide Web has gone to spots where pictures are so huge that they take all day to display on your screen. Dr. HTML will tell you how long the pictures on your page will take to go across a 14.4 kbps modem. It has links to advice for making your pictures more user-friendly.<ep>
+   Another good spot for beginners is the Kinder, Gentler HTML Validator. It has detailed explanations of errors with tips on how to fix them. <ep>
+   There are also some powerful checkers that spit back responses that would befuddle a beginner but be perfect for professionals.<ep>
+   If you're going to be brave and put your page online, take advantage of these free services to make sure you're putting your best foot forward.<ep>
+<m1><styl>vs,3<ql>
+<styl>ragr<ql>
+<m0>  <ep>
+<m0>  <m0>(box)<m0> Dan Keating can be reached by e-mail at dtkeats@ibm.net, by phone at (954) 985-4571 or by writing him at The Herald, 3325 Hollywood Blvd. Suite 102, Hollywood, Fla. 33021.<ql>
+<m1><styl>ragx<ql>
+<m4>--13.692 inches ( 82p5 )--from last measurement to here--<m2><ql>
+<m4>--20.057 inches ( 120p9 )--from start of measuring to here--<m2><ql>
+<ep>
+
+<<docend>>
